@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/github.com/fabilqis",
+  "author": "fabilqis",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  }
+}
